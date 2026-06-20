@@ -231,7 +231,6 @@ This is exactly where using a scraping API as a proxy layer for Selenium changes
 
 The idea: instead of routing Selenium through a raw proxy you manage yourself, you route it through ScraperAPI's proxy mode. Behind that endpoint sits a pool of 40M+ residential and mobile IPs, automatic retry logic, CAPTCHA solving, and the infrastructure to handle modern bot detection systems at scale.
 
-👉 [查看 ScraperAPI 所有套餐与当前折扣](https://www.scraperapi.com/?fp_ref=coupons)
 
 **Setting it up with Selenium:**
 
@@ -327,8 +326,6 @@ Annual billing saves 10% across all plans. The Scaling plan and above include pa
 
 One thing worth mentioning on pricing: 7 days to test with no card required is genuinely low-friction. I've seen other tools require a card just to see if the thing works.
 
-👉 [开始免费试用 ScraperAPI — 无需信用卡](https://www.scraperapi.com/?fp_ref=coupons)
-
 ---
 
 ## Which Approach Should You Actually Use?
@@ -380,7 +377,6 @@ Yes — CAPTCHA handling is built into all plans. It's included by default and d
 
 The 7-day trial gives you 5,000 API credits with no credit card required. There's also a free account option with 1,000 credits for lighter testing. 
 
-👉 [立即获取 ScraperAPI 免费试用额度](https://www.scraperapi.com/?fp_ref=coupons)
 
 ---
 
